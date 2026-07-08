@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-JIKO_SHINDAN",
+  "name": "自己診断 JIKO-SHINDAN · JKS",
+  "universe": "ARTIFICIAL INTELLIGENCE",
+  "moniker": "⟦自己診断 JIKO-SHINDAN · JKS:jiko-shindan:7c1713⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "7c17138ec66aea29d27871be2be3ceccefdd75e51a7615f7caacde308f02ba6c",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

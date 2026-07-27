@@ -2,8 +2,8 @@ ROOT0-DLW-CHAIN-v1
 index : 344
 slug  : jiko-shindan
 seal  : 7c17138ec66aea29d27871be2be3ceccefdd75e51a7615f7caacde308f02ba6c
-prev  : c0cdea3b35c43b3e08ff065f5a6602286704cb595db3a300baf95477d634972b
-link  : 0380d59f933be5cf7d18933195cc4f766ddb6abd2e685ce292eda792502f00fb
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+prev  : d91e8e3fb959ef27187a401cbb78e555e96786f134cc05046b0be9f15b562b08
+link  : 37f638153b7f5884939e14f7cb62fb80be1e065602b4c0f0844e2a05abac05fd
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
